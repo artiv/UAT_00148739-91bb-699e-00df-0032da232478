@@ -1,0 +1,311 @@
+{
+	"fileName": "zh-Hans_i1.qbl",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "e96e2760-96c7-30fd-4735-32f2a1256ec1",
+			"fileItemDate": "2019-02-16T13:46:23.318Z",
+			"fileItemCollections": [
+				"KG6ZSMoRTZtm62sFo"
+			],
+			"fileItemCollectionsForTranslation": [
+				"KG6ZSMoRTZtm62sFo"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "vhJBEiWYKees555LZ",
+			"possibleLanguages": [
+				"CuCBoYQDvchD3FmMz",
+				"Y7mthAE67SX4sFZAg",
+				"vhJBEiWYKees555LZ",
+				"c3HTmfXyyY839B98C",
+				"tubPTYJWxKL6pKqNN"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "18fcf7fd-8877-237d-8987-a8c7048bfc6a",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsEditableCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsRequiredCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsMultipleCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video content?",
+						"fieldKey": "4783cafa-1625-98c6-57b1-16a5b0506d58",
+						"fieldValues": [
+							{
+								"public_id": "UAT_00148739-91bb-699e-00df-0032da232478/ffmpeged_modernFamily_iwugly_uznrir",
+								"version": 1550324557,
+								"signature": "60680b3dba7ca5a896d6e5bc075dcd2814423fbe",
+								"width": 480,
+								"height": 360,
+								"format": "mp4",
+								"resource_type": "video",
+								"created_at": "2019-02-16T13:42:37Z",
+								"tags": [],
+								"pages": 0,
+								"bytes": 988881,
+								"type": "upload",
+								"etag": "84ea3107fa87f055ffd292f41a724868",
+								"placeholder": false,
+								"url": "http://res.cloudinary.com/qblm/video/upload/v1550324557/UAT_00148739-91bb-699e-00df-0032da232478/ffmpeged_modernFamily_iwugly_uznrir.mp4",
+								"secure_url": "https://res.cloudinary.com/qblm/video/upload/v1550324557/UAT_00148739-91bb-699e-00df-0032da232478/ffmpeged_modernFamily_iwugly_uznrir.mp4",
+								"access_mode": "public",
+								"existing": false,
+								"audio": {
+									"codec": "aac",
+									"bit_rate": "95999",
+									"frequency": 44100,
+									"channels": 2,
+									"channel_layout": "stereo"
+								},
+								"video": {
+									"pix_format": "yuv420p",
+									"codec": "h264",
+									"level": 21,
+									"profile": "High",
+									"bit_rate": "160434",
+									"dar": "4:3"
+								},
+								"is_audio": false,
+								"frame_rate": 24,
+								"bit_rate": 262476,
+								"duration": 30.14,
+								"rotation": 0,
+								"original_filename": "ffmpeged_modernFamily_iwugly",
+								"path": "v1550324506/UAT_00148739-91bb-699e-00df-0032da232478/modernFamily_iwugly.mp4",
+								"thumbnail_url": "https://res.cloudinary.com/qblm/video/upload/c_limit,h_60,w_90/v1550324506/UAT_00148739-91bb-699e-00df-0032da232478/modernFamily_iwugly.jpg",
+								"overlays": [],
+								"videoOverlays": [],
+								"audioOverlays": [],
+								"captions": {
+									"font": "Noto Sans SC Regular",
+									"captionString": "1\n00:00:03,000 --> 00:00:04,800\n我是个很酷的人\n\n2\n00:00:04,800 --> 00:00:05,900\n家伙, 这是我的\n\n3\n00:00:05,900 --> 00:00:06,300\n坊\n\n4\n00:00:07,400 --> 00:00:07,800\n我是\n\n5\n00:00:07,800 --> 00:00:08,900\n这里5我冲浪\n\n6\n00:00:08,900 --> 00:00:09,400\n网络 i\n\n7\n00:00:09,400 --> 00:00:10,600\n文本 lol\n\n8\n00:00:10,600 --> 00:00:11,400\n大声笑\n\n9\n00:00:11,400 --> 00:00:12,700\nomg 哦我的\n\n10\n00:00:12,700 --> 00:00:13,700\n神 wtf\n\n11\n00:00:13,700 --> 00:00:14,700\n为什么法泽\n\n12\n00:00:14,700 --> 00:00:16,800\n你知道我\n\n13\n00:00:16,800 --> 00:00:17,900\n知道所有的舞蹈高\n\n14\n00:00:17,900 --> 00:00:18,800\n学校音乐剧\n\n15\n00:00:18,800 --> 00:00:19,900\n我们都是\n\n16\n00:00:19,900 --> 00:00:20,800\n在此\n\n17\n00:00:20,800 --> 00:00:21,600\n一起\n\n18\n00:00:21,600 --> 00:00:23,800\n是的, 我们是\n\n19\n00:00:23,800 --> 00:00:24,700\n我们都是\n\n20\n00:00:24,700 --> 00:00:25,900\n星星和\n\n21\n00:00:25,900 --> 00:00:26,800\n你\n\n22\n00:00:26,800 --> 00:00:27,700\n知道它\n",
+									"parsed": [
+										{
+											"start": 3000,
+											"end": 4800,
+											"text": "我是个很酷的人"
+										},
+										{
+											"start": 4800,
+											"end": 5900,
+											"text": "家伙, 这是我的"
+										},
+										{
+											"start": 5900,
+											"end": 6300,
+											"text": "坊"
+										},
+										{
+											"start": 7400,
+											"end": 7800,
+											"text": "我是"
+										},
+										{
+											"start": 7800,
+											"end": 8900,
+											"text": "这里5我冲浪"
+										},
+										{
+											"start": 8900,
+											"end": 9400,
+											"text": "网络 i"
+										},
+										{
+											"start": 9400,
+											"end": 10600,
+											"text": "文本 lol"
+										},
+										{
+											"start": 10600,
+											"end": 11400,
+											"text": "大声笑"
+										},
+										{
+											"start": 11400,
+											"end": 12700,
+											"text": "omg 哦我的"
+										},
+										{
+											"start": 12700,
+											"end": 13700,
+											"text": "神 wtf"
+										},
+										{
+											"start": 13700,
+											"end": 14700,
+											"text": "为什么法泽"
+										},
+										{
+											"start": 14700,
+											"end": 16800,
+											"text": "你知道我"
+										},
+										{
+											"start": 16800,
+											"end": 17900,
+											"text": "知道所有的舞蹈高"
+										},
+										{
+											"start": 17900,
+											"end": 18800,
+											"text": "学校音乐剧"
+										},
+										{
+											"start": 18800,
+											"end": 19900,
+											"text": "我们都是"
+										},
+										{
+											"start": 19900,
+											"end": 20800,
+											"text": "在此"
+										},
+										{
+											"start": 20800,
+											"end": 21600,
+											"text": "一起"
+										},
+										{
+											"start": 21600,
+											"end": 23800,
+											"text": "是的, 我们是"
+										},
+										{
+											"start": 23800,
+											"end": 24700,
+											"text": "我们都是"
+										},
+										{
+											"start": 24700,
+											"end": 25900,
+											"text": "星星和"
+										},
+										{
+											"start": 25900,
+											"end": 26800,
+											"text": "你"
+										},
+										{
+											"start": 26800,
+											"end": 27700,
+											"text": "知道它"
+										}
+									],
+									"asset": {
+										"public_id": "UAT_00148739-91bb-699e-00df-0032da232478/ffmpeged_modernFamily_iwugly_uznrir_zh-Hans_x2oh.srt",
+										"version": 1550324784,
+										"signature": "ce9a552d2c7b9bfebe9e41cc76873f2c5699b9ac",
+										"resource_type": "raw",
+										"created_at": "2019-02-16T13:46:24Z",
+										"tags": [],
+										"bytes": 1013,
+										"type": "upload",
+										"etag": "36aee7b5eebb5baed2a0da8806c73078",
+										"placeholder": false,
+										"url": "http://res.cloudinary.com/qblm/raw/upload/v1550324784/UAT_00148739-91bb-699e-00df-0032da232478/ffmpeged_modernFamily_iwugly_uznrir_zh-Hans_x2oh.srt",
+										"secure_url": "https://res.cloudinary.com/qblm/raw/upload/v1550324784/UAT_00148739-91bb-699e-00df-0032da232478/ffmpeged_modernFamily_iwugly_uznrir_zh-Hans_x2oh.srt",
+										"access_mode": "public"
+									},
+									"isAttached": true,
+									"originalCaptionString": "1\n00:00:03,000 --> 00:00:04,800\nI'm a cool\n\n2\n00:00:04,800 --> 00:00:05,900\nguy that's that's my\n\n3\n00:00:05,900 --> 00:00:06,300\nFang\n\n4\n00:00:07,400 --> 00:00:07,800\nI'm\n\n5\n00:00:07,800 --> 00:00:08,900\nhere 5 i surf\n\n6\n00:00:08,900 --> 00:00:09,400\nthe web I\n\n7\n00:00:09,400 --> 00:00:10,600\ntext LOL\n\n8\n00:00:10,600 --> 00:00:11,400\nlaugh out loud\n\n9\n00:00:11,400 --> 00:00:12,700\nOMG oh my\n\n10\n00:00:12,700 --> 00:00:13,700\nGod WTF\n\n11\n00:00:13,700 --> 00:00:14,700\nwhy the FaZe\n\n12\n00:00:14,700 --> 00:00:16,800\nyou know I\n\n13\n00:00:16,800 --> 00:00:17,900\nknow all the dances High\n\n14\n00:00:17,900 --> 00:00:18,800\nSchool Musical\n\n15\n00:00:18,800 --> 00:00:19,900\nWe're All\n\n16\n00:00:19,900 --> 00:00:20,800\nin This\n\n17\n00:00:20,800 --> 00:00:21,600\nTogether\n\n18\n00:00:21,600 --> 00:00:23,800\nyes we are\n\n19\n00:00:23,800 --> 00:00:24,700\nwe're all\n\n20\n00:00:24,700 --> 00:00:25,900\nstars and\n\n21\n00:00:25,900 --> 00:00:26,800\nyou\n\n22\n00:00:26,800 --> 00:00:27,700\nknow it\n"
+								},
+								"transformedURLs": [
+									"https://res.cloudinary.com/qblm/video/upload/v1550324506/UAT_00148739-91bb-699e-00df-0032da232478/modernFamily_iwugly.mp4",
+									"https://res.cloudinary.com/qblm/video/upload/v1550324557/UAT_00148739-91bb-699e-00df-0032da232478/ffmpeged_modernFamily_iwugly_uznrir.mp4"
+								],
+								"transformedPublicIds": [
+									"UAT_00148739-91bb-699e-00df-0032da232478/modernFamily_iwugly",
+									"UAT_00148739-91bb-699e-00df-0032da232478/ffmpeged_modernFamily_iwugly_uznrir"
+								],
+								"embed": {
+									"width": 480,
+									"height": 360,
+									"scale": false,
+									"fit": false,
+									"limit": false,
+									"crop": false,
+									"cropGravity": "",
+									"cropFixedX": "",
+									"cropFixedY": "",
+									"altText": "",
+									"caption": "",
+									"seoSuffix": "modernfamily"
+								}
+							}
+						],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "approved",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "da505689-7586-c403-6b0f-13dfcfdfd6fd",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsEditableCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsRequiredCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsMultipleCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio content?",
+						"fieldKey": "4b1648a3-f01b-a6c3-a6d8-6a35a945130b",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
