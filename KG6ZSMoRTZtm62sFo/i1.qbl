@@ -1,0 +1,111 @@
+{
+	"fileName": "i1.qbl",
+	"fileTemplateRepo": "UAT_00148739-91bb-699e-00df-0032da232478",
+	"fileTemplatePath": "KG6ZSMoRTZtm62sFo/t1.q6a",
+	"fileItem": {
+		"fileItemGeneral": {
+			"fileItemGuid": "f02317e0-97d0-9f9f-e4ca-96a2d6d19300",
+			"fileItemDate": "2019-02-16T13:11:42.663Z",
+			"fileItemCollections": [
+				"KG6ZSMoRTZtm62sFo"
+			],
+			"fileItemCollectionsForTranslation": [
+				"KG6ZSMoRTZtm62sFo"
+			]
+		},
+		"fileItemLanguage": {
+			"primaryLanguage": "CuCBoYQDvchD3FmMz",
+			"possibleLanguages": [
+				"CuCBoYQDvchD3FmMz",
+				"Y7mthAE67SX4sFZAg",
+				"vhJBEiWYKees555LZ",
+				"c3HTmfXyyY839B98C",
+				"tubPTYJWxKL6pKqNN"
+			]
+		},
+		"fileItemStructure": {
+			"fileItemGenerics": [],
+			"fileItemFields": [
+				{
+					"fieldGeneral": {
+						"fieldGuid": "18fcf7fd-8877-237d-8987-a8c7048bfc6a",
+						"fieldType": "fieldVideo",
+						"fieldIsVisibleCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsEditableCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsRequiredCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsMultipleCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Video content?",
+						"fieldKey": "4783cafa-1625-98c6-57b1-16a5b0506d58",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				},
+				{
+					"fieldGeneral": {
+						"fieldGuid": "da505689-7586-c403-6b0f-13dfcfdfd6fd",
+						"fieldType": "fieldAudio",
+						"fieldIsVisibleCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsEditableCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsRequiredCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						],
+						"fieldIsMultipleCollections": [
+							"KG6ZSMoRTZtm62sFo"
+						]
+					},
+					"fieldMeta": {
+						"fieldCanTranslate": true,
+						"fieldCanParent": false,
+						"fieldCanChild": false
+					},
+					"fieldSpecific": {
+						"fieldInformation": "Please upload Audio content?",
+						"fieldKey": "4b1648a3-f01b-a6c3-a6d8-6a35a945130b",
+						"fieldValues": [],
+						"fieldChildren": []
+					},
+					"fieldWorking": {
+						"fieldOrderId": "",
+						"fieldOrderComment": "",
+						"specificOrderComment": "",
+						"fieldJobId": "",
+						"fieldJobStatus": "",
+						"fieldJobComment": "",
+						"specificJobComment": ""
+					}
+				}
+			]
+		},
+		"fileItemPublish": {
+			"fileItemTypes": []
+		}
+	}
+}
